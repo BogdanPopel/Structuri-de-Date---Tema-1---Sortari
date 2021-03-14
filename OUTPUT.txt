@@ -1,0 +1,598 @@
+_________________________________________________________________
+
+Testul 1: 10 numere cu valoarea maxima 100
+
+Time taken by the sort() function: 0 microseconds
+
+Time taken by Bubble: 0 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT: 0 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 0 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 0 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 0 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 0 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT: 0 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT: 0 microseconds
+E sortat: 1 pentru TIM
+
+_________________________________________________________________
+
+Testul 2: 100 numere cu valoarea maxima 1000
+
+Time taken by the sort() function: 0 microseconds
+
+Time taken by Bubble: 0 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT: 0 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 0 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 0 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 0 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 0 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT: 0 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT: 0 microseconds
+E sortat: 1 pentru TIM
+
+_________________________________________________________________
+
+Testul 3: 1000 numere cu valoarea maxima 100000
+
+Time taken by the sort() function: 0 microseconds
+
+Time taken by Bubble: 9484 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT: 995 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 872 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 0 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 993 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 0 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT: 1000 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT: 0 microseconds
+E sortat: 1 pentru TIM
+
+_________________________________________________________________
+
+Testul 4: 10000 numere cu valoarea maxima 10000000
+
+Time taken by the sort() function: 0 microseconds
+
+Time taken by Bubble: 863306 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT: 62851 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 2992 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 998 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 996 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 10971 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 997 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT: 119698 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT: 2990 microseconds
+E sortat: 1 pentru TIM
+
+_________________________________________________________________
+
+Testul 5: 100000 numere cu valoarea maxima 100
+
+Time taken by the sort() function: 0 microseconds
+
+Time taken by Bubble: 89559372 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT: 2991 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 10970 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 3985 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 3989 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 117685 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 12003 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT: 12659201 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT: 35923 microseconds
+E sortat: 1 pentru TIM
+
+_________________________________________________________________
+
+Testul 6: 1000000 numere cu valoarea maxima 100000
+
+Time taken by the sort() function: 0 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble: 0 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT: 50858 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 216421 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 89759 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 89761 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 1167050 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 174533 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT: 0 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT: 997 microseconds
+E sortat: 0 pentru TIM
+
+_________________________________________________________________
+
+Testul 7: 10000000 numere cu valoarea maxima 10000
+
+Time taken by the sort() function: 0 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble: 659 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT: 439865 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 1822131 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 770941 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 750028 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Merge nu sorteaza de la 10^6 elemente im sus.Time taken by MERGE SORT: 0 microseconds
+E sortat: 0 pentru MERGE
+
+Time taken by QUICK SORT: 1733367 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT: 422 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT: 0 microseconds
+E sortat: 0 pentru TIM
+
+_________________________________________________________________
+
+Testul 8: 100000 numere cu valoarea maxima 100000000
+
+Time taken by the sort() function: 0 microseconds
+
+Time taken by Bubble: 89576660 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT: 653252 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 27929 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 12971 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 12968 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 112698 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 14962 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT: 12263738 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT: 40909 microseconds
+E sortat: 1 pentru TIM
+
+_________________________________________________________________
+
+Testul 9: 1000000 numere cu valoarea maxima 100000000
+
+Time taken by the sort() function: 0 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble: 383 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT: 785898 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 269284 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 126662 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 125696 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT: 1080116 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT: 172567 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT: 0 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT: 0 microseconds
+E sortat: 0 pentru TIM
+
+_________________________________________________________________
+
+Testul 10: 100000000 numere cu valoarea maxima 100000000
+
+Time taken by the sort() function: 0 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble: 0 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT: 17772660 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC: 28059065 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16: 12714041 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256: 13108362 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Merge nu sorteaza de la 10^6 elemente im sus.Time taken by MERGE SORT: 0 microseconds
+E sortat: 0 pentru MERGE
+
+Time taken by QUICK SORT: 23164129 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT: 0 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT: 999 microseconds
+E sortat: 0 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 10 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 100 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 1000 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 9973 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 1994 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 10000 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 1011296 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 990 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 1982 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 9973 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 999 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 254320 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 2996 microseconds
+E sortat: 1 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 100000 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 9973 microseconds
+
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 103457122 microseconds
+E sortat: 1 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 3990 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 19946 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 8976 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 7960 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 105717 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 3990 microseconds
+E sortat: 1 pentru QUICK
+
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 25124969 microseconds
+E sortat: 1 pentru INSERTION
+
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 35885 microseconds
+E sortat: 1 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 1000000 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 116669 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 310 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 41889 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 241354 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 96741 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 94747 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 1150923 microseconds
+E sortat: 1 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 60837 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 0 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 10000000 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 1448128 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 443816 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 2807619 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 1123996 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 1125986 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Merge nu sorteaza de la 10^6 elemente im sus.Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 997 microseconds
+E sortat: 0 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 662231 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 1035 microseconds
+E sortat: 0 pentru TIM
+
+___________________________DESCENDING ORDER VECTORS: INCREASING IN SIZE. NOW: 100000000 ELEMENTS___________________________
+
+Time taken by the sort() function TO SORT DESCENDIND ORDER VECTOR: 15332022 microseconds
+
+Bubble devine foarte incet de la 10^5 elemente. La 10^6 elemente spunem ca nu poate sorta.
+Time taken by Bubble TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 0 pentru BUBBLE
+
+Time taken by COUNT SORT TO SORT DESCENDIND ORDER VECTOR: 4503949 microseconds
+E sortat: 1 pentru COUNT
+
+Time taken by RADIX SORT CLASSIC TO SORT DESCENDIND ORDER VECTOR: 31175713 microseconds
+E sortat: 1 pentru RADIX CLASIC
+
+Time taken by RADIX SORT BASE 16 TO SORT DESCENDIND ORDER VECTOR: 13092009 microseconds
+E sortat: 1 pentru RADIX BASE 16
+
+Time taken by RADIX SORT BASE 256 TO SORT DESCENDIND ORDER VECTOR: 13245598 microseconds
+E sortat: 1 pentru RADIX BASE 256
+
+Merge nu sorteaza de la 10^6 elemente im sus.Time taken by MERGE SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 0 pentru MERGE
+
+Time taken by QUICK SORT TO SORT DESCENDIND ORDER VECTOR: 6927823 microseconds
+E sortat: 1 pentru QUICK
+
+Insertion Sort devine foarte incet cand lucram cu multe elemente. la 10^6 elemente spunem ca nu poate sorta.
+Time taken by INSERTION SORT TO SORT DESCENDIND ORDER VECTOR: 0 microseconds
+E sortat: 0 pentru INSERTION
+
+TimSort nu sorteaza
+Time taken by TIM SORT TO SORT DESCENDIND ORDER VECTOR: 980 microseconds
+E sortat: 0 pentru TIM
